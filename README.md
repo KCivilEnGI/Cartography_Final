@@ -11,3 +11,6 @@ This map is the final project I did in the course. It integrates all the knowled
 
 ### Africa Map
 This map is used as a practice for us to deal with enormous symbols and labels. The goal of this task is to show reasonable clarity and style of design. It was created before the final project, so some styles, such as color hue and fonts, might not be as harmonious as other maps I made. To view the map, click <a href='https://github.com/KCivilEnGI/Cartography_Gallery/blob/main/Lab2_Africa_KuangChengCheng.pdf'>here</a>
+
+### Choropleth Map
+This map is used as a practice to demonstrate the difference between enumerated units which means the differents between different regions without bias. Before making this kind of map, the data has to be normalized. Otherwise, the comparison may be biased. To view the map, click <a href='https://github.com/KCivilEnGI/Cartography_Labs/blob/main/Lab3_Choropleth_KuangChengCheng.pdf'>here</a>

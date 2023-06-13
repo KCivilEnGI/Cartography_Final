@@ -7,7 +7,7 @@ Teaching Assistant: Alicia Iverson
 
 ## The purpose of each map
 ### Taiwan Public Transportation Infrastructure Map
-This map is the final project I did in the course. It integrates all the knowledge and concepts I learned through the semester, and it is more curated than other maps for the lab assignments.
+This map is the final project I did in the course. It integrates all the knowledge and concepts I learned through the semester, and it is more curated than other maps for the lab assignments. To view the map, click <a href='https://github.com/KCivilEnGI/Cartography_Gallery/blob/main/FinalProject_TaiwanPublicTransportation_KuangChengCheng.pdf'>here</a>
 
 ### Africa Map
-This map is used as a practice for us to deal with enormous symbols and labels. The goal of this task is to show reasonable clarity and style of design.
+This map is used as a practice for us to deal with enormous symbols and labels. The goal of this task is to show reasonable clarity and style of design. It was created before the final project, so some styles, such as color hue and fonts, might not be as harmonious as other maps I made. To view the map, click <a href='https://github.com/KCivilEnGI/Cartography_Gallery/blob/main/Lab2_Africa_KuangChengCheng.pdf'>here</a>
